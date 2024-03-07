@@ -2,8 +2,6 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
 Horiseon is a company that is looking to improve accessibility within its website.  This project included adding semantic elements to serve that function and improve the website's search engine optimization.  With these additions, the Horiseon website will now be more compatible with screen readers, browser extensions, and other more and more commonly used accessibility tools.   
 
 ## Installation
